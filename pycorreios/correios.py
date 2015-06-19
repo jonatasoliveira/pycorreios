@@ -81,8 +81,10 @@ class Correios(object):
                      'Erro',
                      'Codigo',
                      'Valor',
+                     'ValorSemAdicionais',
                      'PrazoEntrega',
                      'ValorMaoPropria',
+                     'ValorAvisoRecebimento',
                      'ValorValorDeclarado',
                      'EntregaDomiciliar',
                      'EntregaSabado',)
